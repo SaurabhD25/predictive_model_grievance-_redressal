@@ -1,0 +1,73 @@
+Services,Timeline months
+Tatkal-issue passport,1
+Tatkal-renew passport,1
+SVP-issue passport,2
+SVP-renew passport,2
+Ordinary-issue passport,2
+Ordinary-renew passport,2
+Official-issue passport,1
+Official-renew passport,1
+Diplomat-issue passport,1
+Diplomat-renew passport,1
+lost passport,3
+passport delay,1
+passport personal data correction,2
+Nonimmigrant Tourist Visa-apply for visa,1
+Nonimmigrant Tourist Visa-not granted,2
+Nonimmigrant Tourist Visa-renewal,3
+Nonimmigrant Tourist Visa-blocked,2
+Nonimmigrant Domestic Employee Visa-apply,1
+Nonimmigrant Domestic Employee Visa-not granted,2
+Nonimmigrant Domestic Employee Visa-renewal,2
+Nonimmigrant Domestic Employee Visa-blocked,2
+Nonimmigrant Official Employee Visa-apply,1
+Nonimmigrant Official Employee Visa-not granted,1
+Nonimmigrant Official Employee Visa-renewal,1
+Nonimmigrant Official Employee Visa-blocked,1
+Nonimmigrant Student Visa-apply,2
+Nonimmigrant Student Visa-not granted,2
+Nonimmigrant Student Visa-renewal,2
+Nonimmigrant Student Visa-blocked,2
+Nonimmigrant Business Visa-apply,1
+Nonimmigrant Business Visa-not granted,1
+Nonimmigrant Business Visa-renewal,1
+Nonimmigrant Business Visa-blocked,2
+Nonimmigrant Transit Visa-apply,1
+Nonimmigrant Transit Visa-not granted,2
+Nonimmigrant Transit Visa-renewal,1
+Nonimmigrant Transit Visa-blocked,2
+Nonimmigrant Diplomat Visa-apply,1
+Nonimmigrant Diplomat Visa-not granted,1
+Nonimmigrant Diplomat Visa-renewal,1
+Nonimmigrant Diplomat Visa-blocked,1
+Immigrant Spousal Visa-apply,2
+Immigrant Spousal Visa-not granted,2
+Immigrant Spousal Visa-renewal,2
+Immigrant Spousal Visa-blocked,3
+Immigrant Fiance Visa-apply,2
+Immigrant Fiance Visa-not granted,2
+Immigrant Fiance Visa-renewal,2
+Immigrant Fiance Visa-blocked,3
+Immigrant permanent employee Visa-apply,1
+Immigrant permanent employee Visa-not granted,2
+Immigrant permanent employee Visa-renewal,1
+Immigrant permanent employee Visa-blocked,2
+visa lost,3
+visa data correction,2
+e-visa,1
+Tax payment,1
+Unfiled Taxes,3
+Penalties and Interest,2
+GST Rates,2
+Absence of Products-GST,4
+Issue PAN card,1
+Update info-PAN card,2
+Issue birth certificate,2
+Renew birth certificate,2
+Update info birth certificate,3
+Issue death certificate,2
+Renew death certificate,2
+Update info death certificate,3
+Issue marriage certificate,2
+Renew marriage certificate,2
+Update info marriage certificate,3
